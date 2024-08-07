@@ -1,0 +1,32 @@
+.text-center{
+    text-align: center;
+  }
+  
+  .mx-auto{
+    margin: auto;
+  }
+  .flex{
+    display: flex;
+  }
+  .flex-col{
+       flex-direction: column;
+  }
+  .items-center{
+    align-items: center;
+  }
+  .bg-black{
+    background-color: black;
+    width: 350px;
+    border: 2px solid black;
+    border-width: 6px;
+    border-radius: 1rem;
+  }
+  .btn1{
+    background-color:#ed9f0c;
+  }
+  .row1{
+    background-color: #c2c2c2;
+  }
+  .btn2{
+    background-color: #858080;
+  }
